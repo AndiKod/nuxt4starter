@@ -49,7 +49,7 @@ future: {
 
 With that in place, we can use the new folders structure and more. Read the NuxtDocs for up to date information.
 
-The intent of this starter is to be a simple template in "opt-in" mode for new Nuxt4 projects.
+The intent of this starter is to be a simple template for new Nuxt4 projects.
 
 
 --- The rest of the README is unchanged ---
